@@ -1,0 +1,7 @@
+C:\Users\leonardo.ykonichi\source\repos\aula07Continuaçao\aula07Continuaçao\bin\Debug\aula07Continuaçao.exe.config
+C:\Users\leonardo.ykonichi\source\repos\aula07Continuaçao\aula07Continuaçao\bin\Debug\aula07Continuaçao.exe
+C:\Users\leonardo.ykonichi\source\repos\aula07Continuaçao\aula07Continuaçao\bin\Debug\aula07Continuaçao.pdb
+C:\Users\leonardo.ykonichi\source\repos\aula07Continuaçao\aula07Continuaçao\obj\Debug\aula07Continuaçao.csproj.AssemblyReference.cache
+C:\Users\leonardo.ykonichi\source\repos\aula07Continuaçao\aula07Continuaçao\obj\Debug\aula07Continuaçao.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.ykonichi\source\repos\aula07Continuaçao\aula07Continuaçao\obj\Debug\aula07Continuaçao.exe
+C:\Users\leonardo.ykonichi\source\repos\aula07Continuaçao\aula07Continuaçao\obj\Debug\aula07Continuaçao.pdb
